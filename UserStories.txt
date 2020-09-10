@@ -1,0 +1,21 @@
+User Stories
+
+As a busy student,
+So that I only have to go grocery shopping once every two weeks,
+I want to keep track of my grocieries to use all of it up.
+
+As a person who looks cooking,
+So that I can keep track of the new recipes I try out,
+I want to have a place to store the recipes I like and easily access them while meal planning.
+
+As a very forgetful person,
+So that I can keep track of my groceries and not waste food,
+I want to have a list of what food I currently have so I can use it up before it goes bad.
+
+As someone with dietary restrictions,
+So that I can easily store and reference recipes suited to my dietary needs,
+I want to have a place to keep recipes that actually works for my needs and are delicious.
+
+As someone on a budget,
+So that I can easily meal plan to save money,
+I want to be able to meal plan for the week based on what I already have and be able to see what I need to buy.
