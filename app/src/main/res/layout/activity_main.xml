@@ -50,7 +50,7 @@
         android:layout_marginBottom="4dp"
         android:dateTextAppearance="@style/TextAppearance.AppCompat.Body1"
         android:showWeekNumber="false"
-        android:shownWeekCount="1"
+        android:shownWeekCount="6"
         android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="@+id/textView"
         app:layout_constraintEnd_toStartOf="@+id/textView"
