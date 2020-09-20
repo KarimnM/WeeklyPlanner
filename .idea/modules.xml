@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/GROUP_L.iml" filepath="$PROJECT_DIR$/.idea/modules/GROUP_L.iml" group="GROUP_L" />
-      <module fileurl="file://$PROJECT_DIR$/WeeklyPlanner.iml" filepath="$PROJECT_DIR$/WeeklyPlanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="GROUP L/app" />
     </modules>
   </component>
